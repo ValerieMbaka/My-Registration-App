@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:ns1="http://schemas.android.com/tools">
     <color name="bg_color">#2196F3</color>
+    <color name="bg_color1">#9C27B0</color>
     <color name="black">#FF000000</color>
     <color name="btn_login">#2196F3</color>
     <color name="btn_reg">#38A808</color>
